@@ -533,17 +533,69 @@ export function levelStats(level) {
         "robtop",
         ["cube", 'ship']
       )
-    default:
+    case 'amplification':
       return new Level(
-        10,
-        "extreme",
+        5,
+        "hard",
         "feature",
         3,
         "long",
-        true,
-        update(73667628),
+        false,
+        update(20635816),
         "newgrounds",
-        "hell",
+        "generic/other",
+        ["cube", 'ship', 'ball', 'ufo', 'wave', 'robot']
+      )
+    case 'the lightning road':
+      return new Level(
+        10,
+        "easy demon",
+        "feature",
+        0,
+        "long",
+        false,
+        update(55520),
+        "newgrounds",
+        "robtop",
+        ["cube", 'ship', 'ball']
+      )
+    case 'promises':
+      return new Level(
+        2,
+        "easy",
+        "feature",
+        3,
+        "long",
+        false,
+        update(26618473),
+        "newgrounds",
+        "generic/other",
+        ["cube", 'ship', 'ball', 'ufo', 'robot']
+      )
+    case 'end of line':
+      return new Level(
+        3,
+        "normal",
+        "feature",
+        3,
+        "long",
+        false,
+        update(215705),
+        "newgrounds",
+        "robtop",
+        ["cube", 'ship', 'ball', 'robot']
+      )
+    default:
+      return new Level(
+        0,
+        "error",
+        "error",
+        0,
+        "error",
+        true,
+        "error",
+        "error",
+        "error",
         ["cube"]
       )
     }}
@@ -561,17 +613,13 @@ function getAllLevelNames() {
 }
 
 export const levelNames = getAllLevelNames()
-console.log(levelNames.length)
+console.log(levelNames)
 
 export function gamemodeEvaluator(answer, guess, type) {
-  console.log('gamemode evalutaor')
-  console.log(answer)
-  console.log(guess)
   let count = 0
   for (let i = 0; i < answer[type].length; i++) {
     answer[type][i] === guess[type][i] && count++ 
   }
-  console.log(guess[type])
   return (count === answer[type].length) ? answer[type].length === guess[type].length ? 'green' : 'orange' : 'red'
 }
 
@@ -608,7 +656,7 @@ export function getPicture(input) {
   }
   if (inputArray[0] === 'objects') secondary = !secondary ? 'object' : 'objects'
   if (inputArray[0] === 'stars' && !isNaN(secondary)) secondary = 'stars'
-  return `/assets/${mainFolder}/${secondary}.png`
+  return `${process.env.PUBLIC_URL}/assets/${mainFolder}/${secondary}.png`
 }
 
 const decoThemeList = [

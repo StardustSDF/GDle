@@ -100,8 +100,9 @@ const GDLE: React.FC<{ answer: any; guess: any }> = ({ answer, guess }) => {
 
   function gdle(guessedLevel: any, answer: any) {
   print(originalGuess)
-  guessedLevel = levelStats(guessedLevel)
+  guessedLevel = levelStats(String(guessedLevel).toLowerCase())
   answer = levelStats(answer)
+  
   print(guessedLevel)
   if (!guessedLevel || !guessedLevel.gamemodes) {
     setStars("Invalid level");
@@ -126,8 +127,6 @@ const GDLE: React.FC<{ answer: any; guess: any }> = ({ answer, guess }) => {
   setSong(compare(answer, guessedLevel, "song"));
   setTheme(compare(answer, guessedLevel, "theme"));
   setGamemodes(compare(answer, guessedLevel, "gamemodes"));
-  console.log(gamemodes)
-
 }
 
   return (
