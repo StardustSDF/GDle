@@ -1,4 +1,4 @@
-export class Level {
+class Level {
   constructor(
     stars,
     difficulty,
@@ -50,7 +50,7 @@ function update(id) {
     : "2.1";
 }
 
-export function levelStats(level) {
+function levelStats(level) {
   switch (level) {
     case "kenos":
       return new Level(
@@ -468,6 +468,59 @@ export function levelStats(level) {
         "generic",
         ["cube", 'ship', 'ufo', 'wave']
       )
+    case 'outerspace':
+      return new Level(
+        5,
+        "hard",
+        "feature",
+        3,
+        "long",
+        false,
+        update(27732941),
+        "newgrounds",
+        "generic",
+        ["cube", 'ship', 'ball', 'ufo']
+      )
+    case 'level easy':
+      return new Level(
+        3,
+        "normal",
+        "feature",
+        0,
+        "long",
+        false,
+        update(11940),
+        "newgrounds",
+        "robtop",
+        ["cube", 'ship']
+      )
+    case 'dark paradise':
+      return new Level(
+        2,
+        "easy",
+        "feature",
+        3,
+        "long",
+        false,
+        update(11280109),
+        "newgrounds",
+        "generic/other",
+        ["cube", 'ship', 'ball', 'ufo', 'wave']
+      )
+      case 'acid factory':
+        return new Level(
+          4,
+          "hard",
+          "feature",
+          3,
+          "long",
+          false,
+          update(28179535),
+          "newgrounds",
+          "generic/other",
+          ["cube", 'ship', 'ball', 'ufo', 'robot']
+        )
+      
     default:
       return new Level(
         10,
@@ -495,7 +548,7 @@ function getAllLevelNames() {
   return levelNames;
 }
 
-export const levelNames = getAllLevelNames()
+const levelNames = getAllLevelNames()
 console.log(levelNames.length)
 
 function gamemodeEvaluator(answer, guess, type) {
@@ -511,7 +564,7 @@ function gamemodeEvaluator(answer, guess, type) {
 }
 
 
-export function compare(answer, guess, type) {
+function compare(answer, guess, type) {
   let array = [type, guess[type], answer[type]]
   let stringed = JSON.stringify(array)
   let color = getColor(stringed)
@@ -524,7 +577,7 @@ export function compare(answer, guess, type) {
 
 
 
-export function getColor(input) {
+function getColor(input) {
   let inputArray = JSON.parse(input)
   let possibleColor = inputArray[1] === inputArray[2] ? 'green' : 'red'
   if (Array.isArray[inputArray[1]]) {
@@ -534,7 +587,7 @@ export function getColor(input) {
 }
 
 
-export function getPicture(input) {
+function getPicture(input) {
   let inputArray = JSON.parse(input)
   let mainFolder = inputArray[0]
   let secondary = inputArray[1]
@@ -642,4 +695,12 @@ const songCreatorList = [
   "rob scales",
   "rodrigo flores",
   ""
+
 ]
+
+//function checkList(level) {
+//  return listOfLevels.indexOf(level)
+//  }
+//  console.log(checkList(“erebus”))
+//  }
+  
