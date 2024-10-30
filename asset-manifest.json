@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GDle/static/css/main.e6c13ad2.css",
-    "main.js": "/GDle/static/js/main.d40110ae.js",
+    "main.js": "/GDle/static/js/main.c978e5f2.js",
     "index.html": "/GDle/index.html",
     "main.e6c13ad2.css.map": "/GDle/static/css/main.e6c13ad2.css.map",
-    "main.d40110ae.js.map": "/GDle/static/js/main.d40110ae.js.map"
+    "main.c978e5f2.js.map": "/GDle/static/js/main.c978e5f2.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d40110ae.js"
+    "static/js/main.c978e5f2.js"
   ]
 }
