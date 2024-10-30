@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StardustSDF/GDle/static/css/main.e6c13ad2.css",
+    "main.js": "/StardustSDF/GDle/static/js/main.7bf7d30a.js",
+    "index.html": "/StardustSDF/GDle/index.html",
+    "main.e6c13ad2.css.map": "/StardustSDF/GDle/static/css/main.e6c13ad2.css.map",
+    "main.7bf7d30a.js.map": "/StardustSDF/GDle/static/js/main.7bf7d30a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7bf7d30a.js"
+  ]
+}
