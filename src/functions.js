@@ -1,4 +1,4 @@
-class Level {
+export class Level {
   constructor(
     stars,
     difficulty,
@@ -24,7 +24,7 @@ class Level {
   }
 }
 
-function update(id) {
+export function update(id) {
   return id < 1942
     ? "1.0"
     : id < 10044
@@ -50,7 +50,7 @@ function update(id) {
     : "2.1";
 }
 
-function levelStats(level) {
+export function levelStats(level) {
   switch (level) {
     case "kenos":
       return new Level(
@@ -75,7 +75,7 @@ function levelStats(level) {
         true,
         update(52374843),
         "newgrounds",
-        "generic",
+        "generic/other",
         ["cube", "ship", "ball", "ufo", "wave", "robot", "spider", "dual"]
       )
     case "what is it":
@@ -169,45 +169,45 @@ function levelStats(level) {
         "robtop",
         ["cube", "ship"]
       )
-    case "polargeist":
-      return new Level(
-        3,
-        "normal",
-        "star",
-        3,
-        "long",
-        false,
-        "1.0",
-        "robtop",
-        "robtop",
-        ["cube", "ship"]
-      )
-    case "dry out":
-      return new Level(
-        4,
-        "normal",
-        "star",
-        3,
-        "long",
-        false,
-        "1.0",
-        "robtop",
-        "robtop",
-        ["cube", "ship"]
-      )
-    case "base after base":
-      return new Level(
-        5,
-        "hard",
-        "star",
-        3,
-        "long",
-        false,
-        "1.0",
-        "robtop",
-        "robtop",
-        ["cube", "ship"]
-      )
+    // case "polargeist":
+    //   return new Level(
+    //     3,
+    //     "normal",
+    //     "star",
+    //     3,
+    //     "long",
+    //     false,
+    //     "1.0",
+    //     "robtop",
+    //     "robtop",
+    //     ["cube", "ship"]
+    //   )
+    // case "dry out":
+    //   return new Level(
+    //     4,
+    //     "normal",
+    //     "star",
+    //     3,
+    //     "long",
+    //     false,
+    //     "1.0",
+    //     "robtop",
+    //     "robtop",
+    //     ["cube", "ship"]
+    //   )
+    // case "base after base":
+    //   return new Level(
+    //     5,
+    //     "hard",
+    //     "star",
+    //     3,
+    //     "long",
+    //     false,
+    //     "1.0",
+    //     "robtop",
+    //     "robtop",
+    //     ["cube", "ship"]
+    //   )
     case "cant let go":
       return new Level(
         6,
@@ -309,7 +309,7 @@ function levelStats(level) {
         true,
         update(86407629),
         'newgrounds',
-        'overdecorated',
+        'glow/high decoration',
         ['cube,', 'ship', 'ball', 'ufo', 'wave', 'robot', 'spider', 'dual']
       )
     case 'acheron':
@@ -364,19 +364,19 @@ function levelStats(level) {
           "hell",
           ["cube", 'ship', 'ball', 'ufo', 'dual']
         )
-      case 'tunnel of despair':
-        return new Level(
-          10,
-          "extreme demon",
-          "feature",
-          0,
-          "long",
-          true,
-          update(91351939),
-          "newgrounds",
-          "simple",
-          ["cube", 'ship', 'ball', 'ufo', 'wave', 'robot', 'spider']
-        )
+      // case 'tunnel of despair':
+      //   return new Level(
+      //     10,
+      //     "extreme demon",
+      //     "feature",
+      //     0,
+      //     "long",
+      //     true,
+      //     update(91351939),
+      //     "newgrounds",
+      //     "generic/other",
+      //     ["cube", 'ship', 'ball', 'ufo', 'wave', 'robot', 'spider']
+      //   )
       case 'abyss of darkness':
         return new Level(
           10,
@@ -387,7 +387,7 @@ function levelStats(level) {
           true,
           update(49896559),
           "newgrounds",
-          "dynamic",
+          "generic/other",
           ["cube", 'ship', 'ball', 'ufo', 'wave', 'robot', 'spider', 'dual']
         )
       case 'kyouki': //q key
@@ -400,7 +400,7 @@ function levelStats(level) {
           true,
           update(86018142),
           "newgrounds",
-          "glow",
+          "glow/high decoration",
           ["cube", 'ship', 'ball', 'ufo', 'wave', 'robot', 'spider', 'dual']
         )
       case 'slaughterhouse':
@@ -452,7 +452,7 @@ function levelStats(level) {
         false,
         update(6508283),
         "newgrounds",
-        "generic",
+        "generic/other",
         ["cube", 'ship', 'ball', 'ufo', 'wave']
       )
     case 'sonar':
@@ -465,7 +465,7 @@ function levelStats(level) {
         false,
         update(4454123),
         "newgrounds",
-        "generic",
+        "generic/other",
         ["cube", 'ship', 'ufo', 'wave']
       )
     case 'outerspace':
@@ -478,7 +478,7 @@ function levelStats(level) {
         false,
         update(27732941),
         "newgrounds",
-        "generic",
+        "generic/other",
         ["cube", 'ship', 'ball', 'ufo']
       )
     case 'level easy':
@@ -507,20 +507,32 @@ function levelStats(level) {
         "generic/other",
         ["cube", 'ship', 'ball', 'ufo', 'wave']
       )
-      case 'acid factory':
-        return new Level(
-          4,
-          "hard",
-          "feature",
-          3,
-          "long",
-          false,
-          update(28179535),
-          "newgrounds",
-          "generic/other",
-          ["cube", 'ship', 'ball', 'ufo', 'robot']
-        )
-      
+    case 'acid factory':
+      return new Level(
+        4,
+        "hard",
+        "feature",
+        3,
+        "long",
+        false,
+        update(28179535),
+        "newgrounds",
+        "generic/other",
+        ["cube", 'ship', 'ball', 'ufo', 'robot']
+      )
+    case 'dreamland':
+      return new Level(
+        4,
+        "hard",
+        "feature",
+        0,
+        "long",
+        false,
+        update(150245),
+        "newgrounds",
+        "robtop",
+        ["cube", 'ship']
+      )
     default:
       return new Level(
         10,
@@ -548,10 +560,10 @@ function getAllLevelNames() {
   return levelNames;
 }
 
-const levelNames = getAllLevelNames()
+export const levelNames = getAllLevelNames()
 console.log(levelNames.length)
 
-function gamemodeEvaluator(answer, guess, type) {
+export function gamemodeEvaluator(answer, guess, type) {
   console.log('gamemode evalutaor')
   console.log(answer)
   console.log(guess)
@@ -564,7 +576,7 @@ function gamemodeEvaluator(answer, guess, type) {
 }
 
 
-function compare(answer, guess, type) {
+export function compare(answer, guess, type) {
   let array = [type, guess[type], answer[type]]
   let stringed = JSON.stringify(array)
   let color = getColor(stringed)
@@ -577,7 +589,7 @@ function compare(answer, guess, type) {
 
 
 
-function getColor(input) {
+export function getColor(input) {
   let inputArray = JSON.parse(input)
   let possibleColor = inputArray[1] === inputArray[2] ? 'green' : 'red'
   if (Array.isArray[inputArray[1]]) {
@@ -587,7 +599,7 @@ function getColor(input) {
 }
 
 
-function getPicture(input) {
+export function getPicture(input) {
   let inputArray = JSON.parse(input)
   let mainFolder = inputArray[0]
   let secondary = inputArray[1]
