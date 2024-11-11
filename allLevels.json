@@ -285,7 +285,7 @@
     "objects": 46843,
     "update": "2.1",
     "songName": "Creo - Crazy",
-    "songType": "CreoMusic",
+    "songType": "newgrounds",
     "theme": "generic/other",
     "gamemodes": [
       "cube",
@@ -828,7 +828,7 @@
     "update": "2.1",
     "songName": "Experimental Demo Age (OUT NOW!)",
     "songType": "newgrounds",
-    "theme": "dynamic/other",
+    "theme": "dynamic",
     "gamemodes": [
       "cube",
       "ship",
