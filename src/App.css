@@ -12,6 +12,16 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+@font-face {
+    font-family: "PUSAB";
+    src: url("public/assets/fonts/PUSAB___.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: "PUSAB", sans-serif;
+}
 
 .App-header {
   background-color: #282c34;

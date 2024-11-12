@@ -24,7 +24,7 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <title>GDle</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -40,4 +40,20 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
   </body>
+      <link rel="preload" href="/GDle/assets/fonts/PUSAB___.otf" as="font" type="font/otf" crossorigin="anonymous">
+      
+      <style>
+        /* Define the @font-face rule to load the PUSAB font */
+        @font-face {
+          font-family: "PUSAB";
+          src: url("/GDle/assets/fonts/PUSAB___.otf") format("opentype");
+          font-weight: normal;
+          font-style: normal;
+        }
+      
+        /* Apply the font to the body to ensure it's used */
+        body {
+          font-family: "PUSAB", sans-serif;
+        }
+      </style>
 </html>

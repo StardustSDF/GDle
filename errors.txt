@@ -1,0 +1,781 @@
+s\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\bluetooth\BluetoothProcessor.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\browser\BrowserProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\browser\BrowserProcessor.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\cdp\CdpProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\cdp\CdpProcessor.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\cdp\CdpTarget.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\cdp\CdpTarget.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\cdp\CdpTargetManager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\cdp\CdpTargetManager.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\context\BrowsingContextImpl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\context\BrowsingContextImpl.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\context\BrowsingContextProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\context\BrowsingContextProcessor.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\context\BrowsingContextStorage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\context\BrowsingContextStorage.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\ActionDispatcher.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\ActionDispatcher.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputProcessor.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputSource.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputSource.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputState.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputState.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputStateManager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputStateManager.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\USKeyboardLayout.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\USKeyboardLayout.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\keyUtils.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\keyUtils.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\log\LogManager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\log\LogManager.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\log\logHelper.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\log\logHelper.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkProcessor.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkRequest.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkRequest.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkStorage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkStorage.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkUtils.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkUtils.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\permissions\PermissionsProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\permissions\PermissionsProcessor.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\ChannelProxy.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\ChannelProxy.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\PreloadScript.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\PreloadScript.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\PreloadScriptStorage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\PreloadScriptStorage.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\Realm.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\Realm.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\RealmStorage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\RealmStorage.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\ScriptProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\ScriptProcessor.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\SharedId.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\SharedId.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\WindowRealm.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\WindowRealm.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\WorkerRealm.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\WorkerRealm.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\EventManager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\EventManager.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\SessionProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\SessionProcessor.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\SubscriptionManager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\SubscriptionManager.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\events.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\events.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\storage\StorageProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\storage\StorageProcessor.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\ErrorResponse.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\ErrorResponse.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\cdp.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\cdp.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\chromium-bidi.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\chromium-bidi.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\generated\webdriver-bidi-bluetooth.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\generated\webdriver-bidi-bluetooth.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\generated\webdriver-bidi-permissions.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\generated\webdriver-bidi-permissions.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\generated\webdriver-bidi.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\generated\webdriver-bidi.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\protocol.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\protocol.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Base64.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Base64.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Buffer.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Buffer.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\DefaultMap.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\DefaultMap.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Deferred.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Deferred.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\DistinctValues.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\DistinctValues.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\EventEmitter.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\EventEmitter.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\GraphemeTools.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\GraphemeTools.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\IdWrapper.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\IdWrapper.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Mutex.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Mutex.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\ProcessingQueue.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\ProcessingQueue.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\UrlPattern.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\UrlPattern.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\assert.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\assert.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\log.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\log.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\unitConversions.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\unitConversions.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\uuid.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\uuid.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\Explorer.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\Explorer.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\ExplorerBase.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\ExplorerBase.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\ExplorerSync.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\ExplorerSync.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\defaults.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\defaults.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\index.ts'
+
+Critical dependency: the request of a dependency is an expression
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\loaders.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\loaders.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\merge.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\merge.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\util.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\util.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\data-uri-to-buffer\src\common.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\data-uri-to-buffer\src\common.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\data-uri-to-buffer\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\data-uri-to-buffer\src\index.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\degenerator\src\compile.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\degenerator\src\compile.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\degenerator\src\degenerator.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\degenerator\src\degenerator.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\degenerator\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\degenerator\src\index.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\data.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\data.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\file.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\file.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\ftp.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\ftp.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\http-error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\http-error.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\http.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\http.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\https.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\https.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\index.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\notfound.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\notfound.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\notmodified.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\notmodified.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\http-proxy-agent\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\http-proxy-agent\src\index.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\https-proxy-agent\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\https-proxy-agent\src\index.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\https-proxy-agent\src\parse-proxy-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\https-proxy-agent\src\parse-proxy-response.ts'
+
+Critical dependency: the request of a dependency is an expression
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-proxy-agent\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-proxy-agent\src\index.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dateRange.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dateRange.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dnsDomainIs.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dnsDomainIs.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dnsDomainLevels.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dnsDomainLevels.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dnsResolve.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dnsResolve.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\index.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\ip.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\ip.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\isInNet.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\isInNet.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\isPlainHostName.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\isPlainHostName.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\isResolvable.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\isResolvable.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\localHostOrDomainIs.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\localHostOrDomainIs.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\myIpAddress.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\myIpAddress.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\shExpMatch.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\shExpMatch.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\timeRange.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\timeRange.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\util.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\util.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\weekdayRange.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\weekdayRange.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\proxy-agent\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\proxy-agent\src\index.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\smart-buffer\src\smartbuffer.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\smart-buffer\src\smartbuffer.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\smart-buffer\src\utils.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\smart-buffer\src\utils.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks-proxy-agent\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks-proxy-agent\src\index.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\client\socksclient.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\client\socksclient.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\constants.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\constants.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\helpers.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\helpers.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\receivebuffer.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\receivebuffer.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\util.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\util.ts'
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\index.ts'
+
+Module not found: Error: Can't resolve 'perf_hooks' in 'C:\Users\avala\Downloads\gdle\node_modules\typescript\lib'
+
+Critical dependency: the request of a dependency is an expression
+
+Critical dependency: the request of a dependency is an expression
+
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\typescript\lib\typescript.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\typescript\lib\typescript.js.map'
+
+DefinePlugin
+Conflicting values for 'process.env'
+
+[eslint]
+src\App.tsx
+  Line 1:27:  'useMemo' is defined but never used    @typescript-eslint/no-unused-vars
+  Line 3:8:   'LevelCard' is defined but never used  @typescript-eslint/no-unused-vars
+
+src\GDLE.tsx
+  Line 2:19:   'getColor' is defined but never used                                                                     @typescript-eslint/no-unused-vars
+  Line 2:29:   'getPicture' is defined but never used                                                                   @typescript-eslint/no-unused-vars
+  Line 4:8:    'Move' is defined but never used                                                                         @typescript-eslint/no-unused-vars
+  Line 7:8:    'Picture' is defined but never used                                                                      @typescript-eslint/no-unused-vars
+  Line 9:8:    'fetchLevels' is defined but never used                                                                  @typescript-eslint/no-unused-vars
+  Line 11:7:   'print' is assigned a value but never used                                                               @typescript-eslint/no-unused-vars
+  Line 69:7:   'messageToJayden' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 103:6:  React Hook useEffect has a missing dependency: 'gdle'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\functions.js
+  Line 43:7:  'decoThemeList' is assigned a value but never used    no-unused-vars
+  Line 59:7:  'songCreatorList' is assigned a value but never used  no-unused-vars
+
+src\index.tsx
+  Line 6:8:  'process' is defined but never used  @typescript-eslint/no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+WARNING in ./node_modules/agent-base/dist/helpers.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\agent-base\src\helpers.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\agent-base\src\helpers.ts'
+
+WARNING in ./node_modules/agent-base/dist/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\agent-base\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\agent-base\src\index.ts'
+
+WARNING in ./node_modules/asn1.js/lib/asn1/api.js 17:12-42
+Module not found: Error: Can't resolve 'vm' in 'C:\Users\avala\Downloads\gdle\node_modules\asn1.js\lib\asn1'
+
+BREAKING CHANGE: webpack < 5 used to include polyfills for node.js core modules by default.
+This is no longer the case. Verify if you need this module and configure a polyfill for it.
+
+If you want to include a polyfill, you need to:
+        - add a fallback 'resolve.fallback: { "vm": require.resolve("vm-browserify") }'
+        - install 'vm-browserify'
+If you don't want to include a polyfill, you can use an empty module like this:
+        resolve.fallback: { "vm": false }
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/BidiMapper.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\BidiMapper.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\BidiMapper.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/BidiNoOpParser.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\BidiNoOpParser.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\BidiNoOpParser.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/BidiServer.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\BidiServer.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\BidiServer.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/CommandProcessor.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\CommandProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\CommandProcessor.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/OutgoingMessage.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\OutgoingMessage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\OutgoingMessage.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/bluetooth/BluetoothProcessor.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\bluetooth\BluetoothProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\bluetooth\BluetoothProcessor.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/browser/BrowserProcessor.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\browser\BrowserProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\browser\BrowserProcessor.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/cdp/CdpProcessor.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\cdp\CdpProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\cdp\CdpProcessor.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/cdp/CdpTarget.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\cdp\CdpTarget.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\cdp\CdpTarget.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/cdp/CdpTargetManager.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\cdp\CdpTargetManager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\cdp\CdpTargetManager.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/context/BrowsingContextImpl.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\context\BrowsingContextImpl.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\context\BrowsingContextImpl.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/context/BrowsingContextProcessor.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\context\BrowsingContextProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\context\BrowsingContextProcessor.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/context/BrowsingContextStorage.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\context\BrowsingContextStorage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\context\BrowsingContextStorage.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/input/ActionDispatcher.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\ActionDispatcher.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\ActionDispatcher.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/input/InputProcessor.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputProcessor.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/input/InputSource.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputSource.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputSource.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/input/InputState.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputState.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputState.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/input/InputStateManager.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputStateManager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\InputStateManager.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/input/USKeyboardLayout.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\USKeyboardLayout.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\USKeyboardLayout.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/input/keyUtils.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\keyUtils.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\input\keyUtils.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/log/LogManager.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\log\LogManager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\log\LogManager.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/log/logHelper.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\log\logHelper.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\log\logHelper.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/network/NetworkProcessor.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkProcessor.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/network/NetworkRequest.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkRequest.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkRequest.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/network/NetworkStorage.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkStorage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkStorage.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/network/NetworkUtils.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkUtils.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\network\NetworkUtils.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/permissions/PermissionsProcessor.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\permissions\PermissionsProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\permissions\PermissionsProcessor.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/script/ChannelProxy.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\ChannelProxy.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\ChannelProxy.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/script/PreloadScript.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\PreloadScript.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\PreloadScript.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/script/PreloadScriptStorage.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\PreloadScriptStorage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\PreloadScriptStorage.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/script/Realm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\Realm.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\Realm.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/script/RealmStorage.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\RealmStorage.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\RealmStorage.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/script/ScriptProcessor.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\ScriptProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\ScriptProcessor.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/script/SharedId.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\SharedId.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\SharedId.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/script/WindowRealm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\WindowRealm.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\WindowRealm.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/script/WorkerRealm.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\WorkerRealm.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\script\WorkerRealm.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/session/EventManager.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\EventManager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\EventManager.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/session/SessionProcessor.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\SessionProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\SessionProcessor.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/session/SubscriptionManager.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\SubscriptionManager.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\SubscriptionManager.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/session/events.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\events.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\session\events.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/bidiMapper/modules/storage/StorageProcessor.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\storage\StorageProcessor.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\bidiMapper\modules\storage\StorageProcessor.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/protocol/ErrorResponse.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\ErrorResponse.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\ErrorResponse.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/protocol/cdp.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\cdp.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\cdp.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/protocol/chromium-bidi.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\chromium-bidi.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\chromium-bidi.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/protocol/generated/webdriver-bidi-bluetooth.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\generated\webdriver-bidi-bluetooth.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\generated\webdriver-bidi-bluetooth.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/protocol/generated/webdriver-bidi-permissions.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\generated\webdriver-bidi-permissions.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\generated\webdriver-bidi-permissions.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/protocol/generated/webdriver-bidi.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\generated\webdriver-bidi.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\generated\webdriver-bidi.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/protocol/protocol.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\protocol.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\protocol\protocol.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/Base64.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Base64.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Base64.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/Buffer.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Buffer.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Buffer.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/DefaultMap.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\DefaultMap.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\DefaultMap.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/Deferred.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Deferred.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Deferred.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/DistinctValues.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\DistinctValues.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\DistinctValues.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/EventEmitter.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\EventEmitter.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\EventEmitter.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/GraphemeTools.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\GraphemeTools.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\GraphemeTools.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/IdWrapper.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\IdWrapper.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\IdWrapper.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/Mutex.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Mutex.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\Mutex.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/ProcessingQueue.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\ProcessingQueue.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\ProcessingQueue.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/UrlPattern.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\UrlPattern.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\UrlPattern.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/assert.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\assert.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\assert.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/log.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\log.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\log.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/unitConversions.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\unitConversions.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\unitConversions.ts'
+
+WARNING in ./node_modules/chromium-bidi/lib/cjs/utils/uuid.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\uuid.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\chromium-bidi\src\utils\uuid.ts'
+
+WARNING in ./node_modules/cosmiconfig/dist/Explorer.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\Explorer.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\Explorer.ts'
+
+WARNING in ./node_modules/cosmiconfig/dist/ExplorerBase.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\ExplorerBase.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\ExplorerBase.ts'
+
+WARNING in ./node_modules/cosmiconfig/dist/ExplorerSync.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\ExplorerSync.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\ExplorerSync.ts'
+
+WARNING in ./node_modules/cosmiconfig/dist/defaults.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\defaults.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\defaults.ts'
+
+WARNING in ./node_modules/cosmiconfig/dist/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\index.ts'
+
+WARNING in ./node_modules/cosmiconfig/dist/loaders.js 30:18-30
+Critical dependency: the request of a dependency is an expression
+
+WARNING in ./node_modules/cosmiconfig/dist/loaders.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\loaders.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\loaders.ts'
+
+WARNING in ./node_modules/cosmiconfig/dist/merge.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\merge.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\merge.ts'
+
+WARNING in ./node_modules/cosmiconfig/dist/util.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\util.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\cosmiconfig\src\util.ts'
+
+WARNING in ./node_modules/data-uri-to-buffer/dist/common.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\data-uri-to-buffer\src\common.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\data-uri-to-buffer\src\common.ts'
+
+WARNING in ./node_modules/data-uri-to-buffer/dist/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\data-uri-to-buffer\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\data-uri-to-buffer\src\index.ts'
+
+WARNING in ./node_modules/degenerator/dist/compile.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\degenerator\src\compile.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\degenerator\src\compile.ts'
+
+WARNING in ./node_modules/degenerator/dist/degenerator.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\degenerator\src\degenerator.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\degenerator\src\degenerator.ts'
+
+WARNING in ./node_modules/degenerator/dist/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\degenerator\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\degenerator\src\index.ts'
+
+WARNING in ./node_modules/get-uri/dist/data.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\data.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\data.ts'
+
+WARNING in ./node_modules/get-uri/dist/file.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\file.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\file.ts'
+
+WARNING in ./node_modules/get-uri/dist/ftp.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\ftp.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\ftp.ts'
+
+WARNING in ./node_modules/get-uri/dist/http-error.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\http-error.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\http-error.ts'
+
+WARNING in ./node_modules/get-uri/dist/http.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\http.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\http.ts'
+
+WARNING in ./node_modules/get-uri/dist/https.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\https.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\https.ts'
+
+WARNING in ./node_modules/get-uri/dist/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\index.ts'
+
+WARNING in ./node_modules/get-uri/dist/notfound.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\notfound.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\notfound.ts'
+
+WARNING in ./node_modules/get-uri/dist/notmodified.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\notmodified.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\get-uri\src\notmodified.ts'
+
+WARNING in ./node_modules/http-proxy-agent/dist/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\http-proxy-agent\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\http-proxy-agent\src\index.ts'
+
+WARNING in ./node_modules/https-proxy-agent/dist/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\https-proxy-agent\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\https-proxy-agent\src\index.ts'
+
+WARNING in ./node_modules/https-proxy-agent/dist/parse-proxy-response.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\https-proxy-agent\src\parse-proxy-response.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\https-proxy-agent\src\parse-proxy-response.ts'
+
+WARNING in ./node_modules/import-fresh/index.js 27:32-49
+Critical dependency: the request of a dependency is an expression
+
+WARNING in ./node_modules/pac-proxy-agent/dist/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-proxy-agent\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-proxy-agent\src\index.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/dateRange.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dateRange.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dateRange.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/dnsDomainIs.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dnsDomainIs.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dnsDomainIs.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/dnsDomainLevels.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dnsDomainLevels.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dnsDomainLevels.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/dnsResolve.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dnsResolve.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\dnsResolve.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\index.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/ip.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\ip.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\ip.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/isInNet.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\isInNet.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\isInNet.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/isPlainHostName.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\isPlainHostName.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\isPlainHostName.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/isResolvable.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\isResolvable.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\isResolvable.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/localHostOrDomainIs.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\localHostOrDomainIs.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\localHostOrDomainIs.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/myIpAddress.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\myIpAddress.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\myIpAddress.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/shExpMatch.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\shExpMatch.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\shExpMatch.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/timeRange.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\timeRange.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\timeRange.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/util.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\util.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\util.ts'
+
+WARNING in ./node_modules/pac-resolver/dist/weekdayRange.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\weekdayRange.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\pac-resolver\src\weekdayRange.ts'
+
+WARNING in ./node_modules/proxy-agent/dist/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\proxy-agent\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\proxy-agent\src\index.ts'
+
+WARNING in ./node_modules/smart-buffer/build/smartbuffer.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\smart-buffer\src\smartbuffer.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\smart-buffer\src\smartbuffer.ts'
+
+WARNING in ./node_modules/smart-buffer/build/utils.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\smart-buffer\src\utils.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\smart-buffer\src\utils.ts'
+
+WARNING in ./node_modules/socks-proxy-agent/dist/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks-proxy-agent\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks-proxy-agent\src\index.ts'
+
+WARNING in ./node_modules/socks/build/client/socksclient.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\client\socksclient.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\client\socksclient.ts'
+
+WARNING in ./node_modules/socks/build/common/constants.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\constants.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\constants.ts'
+
+WARNING in ./node_modules/socks/build/common/helpers.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\helpers.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\helpers.ts'
+
+WARNING in ./node_modules/socks/build/common/receivebuffer.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\receivebuffer.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\receivebuffer.ts'
+
+WARNING in ./node_modules/socks/build/common/util.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\util.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\common\util.ts'
+
+WARNING in ./node_modules/socks/build/index.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\index.ts' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\socks\src\index.ts'
+
+WARNING in ./node_modules/typescript/lib/typescript.js 3708:17-38
+Module not found: Error: Can't resolve 'perf_hooks' in 'C:\Users\avala\Downloads\gdle\node_modules\typescript\lib'
+
+WARNING in ./node_modules/typescript/lib/typescript.js 3984:16-38
+Critical dependency: the request of a dependency is an expression
+
+WARNING in ./node_modules/typescript/lib/typescript.js 7452:22-41
+Critical dependency: the request of a dependency is an expression
+
+WARNING in ./node_modules/typescript/lib/typescript.js
+Module Warning (from ./node_modules/source-map-loader/dist/cjs.js):
+Failed to parse source map from 'C:\Users\avala\Downloads\gdle\node_modules\typescript\lib\typescript.js.map' file: Error: ENOENT: no such file or directory, open 'C:\Users\avala\Downloads\gdle\node_modules\typescript\lib\typescript.js.map'
+
+WARNING in DefinePlugin
+Conflicting values for 'process.env'
+
+WARNING in [eslint]
+src\App.tsx
+  Line 1:27:  'useMemo' is defined but never used    @typescript-eslint/no-unused-vars
+  Line 3:8:   'LevelCard' is defined but never used  @typescript-eslint/no-unused-vars
+
+src\GDLE.tsx
+  Line 2:19:   'getColor' is defined but never used                                                                     @typescript-eslint/no-unused-vars
+  Line 2:29:   'getPicture' is defined but never used                                                                   @typescript-eslint/no-unused-vars
+  Line 4:8:    'Move' is defined but never used                                                                         @typescript-eslint/no-unused-vars
+  Line 7:8:    'Picture' is defined but never used                                                                      @typescript-eslint/no-unused-vars
+  Line 9:8:    'fetchLevels' is defined but never used                                                                  @typescript-eslint/no-unused-vars
+  Line 11:7:   'print' is assigned a value but never used                                                               @typescript-eslint/no-unused-vars
+  Line 69:7:   'messageToJayden' is assigned a value but never used                                                     @typescript-eslint/no-unused-vars
+  Line 103:6:  React Hook useEffect has a missing dependency: 'gdle'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+src\functions.js
+  Line 43:7:  'decoThemeList' is assigned a value but never used    no-unused-vars
+  Line 59:7:  'songCreatorList' is assigned a value but never used  no-unused-vars
+
+src\index.tsx
+  Line 6:8:  'process' is defined but never used  @typescript-eslint/no-unused-vars
+
+1 WARNING in child compilations (Use 'stats.children: true' resp. '--stats-children' for more details)
+webpack compiled with 126 warnings
+No issues found.

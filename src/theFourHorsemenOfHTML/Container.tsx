@@ -14,6 +14,9 @@ interface CustomContainerProps {
   * Every container draws an outline of the container automatically. Add outlineTransparent to make the container outline invisible
   */
   outlineTransparent?: boolean;
+  backgroundColor?: string;
+  foregroundColor?: string;
+  boxShadow?: string;
   /**
   * Aligns contents of the container inside the container
   */
@@ -29,6 +32,7 @@ interface CustomContainerProps {
   style?: React.CSSProperties;
 }
 
+const testing = false
 const Container: React.FC<CustomContainerProps> = ({
   children,
   width = 'auto',
@@ -37,14 +41,18 @@ const Container: React.FC<CustomContainerProps> = ({
   horizontalAlign = 'left',
   verticalAlign = 'top',
   className,
+  backgroundColor,
+  foregroundColor,
+  boxShadow,
   style,
 }) => {
   const containerStyle: React.CSSProperties = {
     width: width,
     height: height,
-    border: `1px solid rgba(0, 0, 0, ${outlineTransparent ? 0 : 0.5})`,
+    border: `1px solid rgba(0, 0, 0, ${!testing ? 0 : 0.5})`,
     boxSizing: 'border-box',
     display: 'flex',
+    backgroundColor: backgroundColor,
     justifyContent: (() => {
       switch (horizontalAlign) {
         case 'center':
@@ -65,10 +73,21 @@ const Container: React.FC<CustomContainerProps> = ({
           return 'flex-start';
       }
     })(),
+      boxShadow: boxShadow ? 'inset 0px 0px 20px rgba(0, 0, 0, 0.5)' : undefined,
     ...style,
   };
+    const overlayStyle: React.CSSProperties = {
+    position: 'absolute',
+    width: width,
+    height: height,
+    backgroundColor: foregroundColor || 'transparent',
+    pointerEvents: 'none', // Allows clicks to pass through the overlay if desired
+    zIndex: 1, // Keeps the overlay above the content
+  };
 
-  return <div style={containerStyle} className={className}>{children}</div>;
+  return <div style={containerStyle} className={className}>
+    {foregroundColor && <div style={overlayStyle} />}
+    {children}</div>;
 };
 
 export default Container;

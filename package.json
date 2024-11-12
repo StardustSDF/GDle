@@ -2,8 +2,9 @@
   "name": "gdle",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://StardustSDF.github.io/GDle",
+  "homepage": "https://stardustsdf.github.io/GDle/",
   "dependencies": {
+    "@react-spring/web": "^9.7.5",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -11,20 +12,36 @@
     "@types/node": "^16.18.115",
     "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
+    "@use-gesture/react": "^10.3.1",
+    "assert": "^2.1.0",
+    "browserify-zlib": "^0.2.0",
+    "constants-browserify": "^1.0.0",
+    "cors": "^2.8.5",
     "cross-env": "^7.0.3",
+    "crypto-browserify": "^3.12.1",
+    "https-browserify": "^1.0.0",
+    "os-browserify": "^0.3.0",
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10",
     "react": "^18.3.1",
+    "react-app-rewired": "^2.2.1",
     "react-dom": "^18.3.1",
     "react-jss": "^10.10.0",
     "react-scripts": "5.0.1",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
     "typescript": "^4.9.5",
+    "url": "^0.11.4",
+    "url-browserify": "^1.3.0",
+    "vm-browserify": "^1.1.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "react-app-rewired test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -46,6 +63,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0"
+    "gh-pages": "^6.2.0",
+    "puppeteer": "^23.6.1"
   }
 }

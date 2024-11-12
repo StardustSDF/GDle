@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect, forwardRef, useState } from "react";
 import { createUseStyles } from "react-jss";
 import Container from "./Container";
 import Move from "./Move";
@@ -25,6 +25,11 @@ interface TextProps {
     overflow?: "visible" | "hidden" | "scroll" | "auto";
     whiteSpace?: "normal" | "nowrap" | "pre" | "pre-wrap" | "pre-line" | "break-spaces";
     textOverflow?: "clip" | "ellipsis" | "string";
+    textOutline?: string | number;
+    gradientTop?: string;
+    gradientBottom?: string;
+    textShadow?: string;
+    hoverInfoBox?: React.ReactNode; // Add this prop for hover content
 }
 
 const useStyles = createUseStyles({
@@ -33,7 +38,6 @@ const useStyles = createUseStyles({
         letterSpacing: props.letterSpacing || "normal",
         marginTop: props.margin || '1em',
         marginBottom: props.margin || '1em',
-        color: props.color || "inherit",
         fontSize: props.fontSize || "inherit",
         fontWeight: props.fontWeight || "normal",
         fontStyle: props.fontStyle || "normal",
@@ -43,6 +47,16 @@ const useStyles = createUseStyles({
         overflow: props.overflow || "visible",
         whiteSpace: props.whiteSpace || "normal",
         textOverflow: props.textOverflow || "clip",
+        WebkitTextStrokeWidth: props.textOutline || '2px',
+        WebkitTextStrokeColor: 'black',
+        background: props.gradientTop && props.gradientBottom
+            ? `linear-gradient(${props.gradientTop}, ${props.gradientBottom})`
+            : undefined,
+        WebkitBackgroundClip: props.gradientTop && props.gradientBottom ? 'text' : undefined,
+        color: props.gradientTop && props.gradientBottom ? 'transparent' : props.color || 'inherit',
+        textShadow: props.textShadow || 'none',
+        position: 'relative',
+        cursor: props.hoverInfoBox ? 'pointer' : 'default',
     }),
     container: (props: TextProps) => ({
         display: 'flex',
@@ -70,16 +84,46 @@ const useStyles = createUseStyles({
         })(),
         height: '100%',
         width: '100%',
-    })
+    }),
+    hoverInfoBox: {
+        position: 'absolute',
+        top: '-1.5em', // adjust based on desired positioning
+        left: '50%',
+        transform: 'translateX(-50%)',
+        backgroundColor: '#333',
+        color: '#fff',
+        padding: '0.5em',
+        borderRadius: '5px',
+        pointerEvents: 'none',
+        whiteSpace: 'nowrap',
+        zIndex: 1000,
+    },
 });
 
-const Text: React.FC<TextProps> = (props) => {
+const Text = forwardRef<HTMLDivElement, TextProps>((props, ref) => {
     const classes = useStyles(props);
+    const [hovered, setHovered] = useState(false);
+
+    useEffect(() => {
+    }, []);
+
+    const handleMouseEnter = () => setHovered(true);
+    const handleMouseLeave = () => setHovered(false);
 
     const content = (
         <Move moveRight={props.moveRight} moveDown={props.moveDown}>
-            <div className={classes.paragraph}>
+            <div
+                className={classes.paragraph}
+                ref={ref}
+                onMouseEnter={handleMouseEnter}
+                onMouseLeave={handleMouseLeave}
+            >
                 {props.children}
+                {hovered && props.hoverInfoBox && (
+                    <div className={classes.hoverInfoBox}>
+                        {props.hoverInfoBox}
+                    </div>
+                )}
             </div>
         </Move>
     );
@@ -97,6 +141,6 @@ const Text: React.FC<TextProps> = (props) => {
             </div>
         </Container>
     );
-};
+});
 
 export default Text;

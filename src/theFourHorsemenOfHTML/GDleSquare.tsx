@@ -24,6 +24,7 @@ const GDleSquare: React.FC<ColoredSquareProps> = ({
 
   return (
     <RC column>
+        <Container outlineTransparent height={50}/>
         <Text outlineTransparent horizontalAlign='center'>
             {type === 'theme' ? 'decoration' : type}
         </Text>
@@ -34,9 +35,9 @@ const GDleSquare: React.FC<ColoredSquareProps> = ({
             verticalAlign="middle"
             horizontalAlign="center"
             style={squareStyle}>
-                <Picture outlineTransparent width={type === "rate" ? '120px' : type === 'coins' ? '130px' : type === 'objects' ? (String(guess).match(/s/)) ? '90px' : '60px' : type === 'theme' ? '120px' : type === 'stars' ? '69px' : (type === 'difficulty' && !guess?.match(/ /)) ? '70px' : '90px'} src={picture}/>
+                <Picture outlineTransparent width={type === "rate" ? '120px' : type === 'coins' ? '130px' : type === 'objects' ? '80px' : type === 'theme' ? (String(guess).match(/\//) || (String(guess).match(/1\.9/)))? '100px' : '120px' : type === 'stars' ? '69px' : (type === 'difficulty' && !guess?.match(/ /)) ? '70px' : '90px'} src={picture}/>
         </Container>
-        <Text outlineTransparent containerHeight={type === 'gamemodes' ? 120 : 'auto'} containerWidth={type === 'gamemodes' ? 120 : 'auto'} horizontalAlign='center' verticalAlign='middle' textJustification='center' moveDown={type === 'gamemodes' ? '-120px' : '0px'}>
+        <Text outlineTransparent fontFamily='PUSAB' containerHeight={type === 'gamemodes' ? 120 : 'auto'} containerWidth={type === 'gamemodes' ? 120 : 'auto'} horizontalAlign='center' verticalAlign='middle' textJustification='center' moveDown={type === 'gamemodes' ? '-120px' : '0px'}>
             {guess}
         </Text>
     </RC>
